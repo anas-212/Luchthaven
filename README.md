@@ -1,2 +1,0 @@
-# Luchthaven
-project programming advanced
