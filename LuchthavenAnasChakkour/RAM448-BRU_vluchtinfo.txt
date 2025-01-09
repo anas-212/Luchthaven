@@ -1,0 +1,17 @@
+Vluchtinformatie
+=================
+Vluchtcode: RAM448-BRU
+Bestemming: BRUSSEL
+Aantal stoelen (Economy): 151
+Aantal stoelen (Business): 30
+
+Toegewezen Personeel:
+- Personeel{naam='John Smith', leeftijd=45, adres='Aviation Road 10', rol='Piloot'}
+- Personeel{naam='Jane Doe', leeftijd=38, adres='Skyline Avenue 15', rol='Piloot'}
+- Personeel{naam='Alice Brown', leeftijd=30, adres='Crew Street 5', rol='Cabin Crew'}
+- Personeel{naam='Bob White', leeftijd=28, adres='Crew Street 6', rol='Cabin Crew'}
+- Personeel{naam='Clara Green', leeftijd=32, adres='Crew Street 7', rol='Cabin Crew'}
+- Personeel{naam='Camille West', leeftijd=42, adres='Crew Street 9', rol='Onboarder'}
+
+Passagiers:
+- Passagier{naam='SSJS', leeftijd=3, adres='KJFJF', bagagegewicht=3.0}

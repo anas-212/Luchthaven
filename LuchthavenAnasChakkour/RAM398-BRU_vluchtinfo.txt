@@ -1,0 +1,17 @@
+Vluchtinformatie
+=================
+Vluchtcode: RAM398-BRU
+Bestemming: BRU
+Aantal stoelen (Economy): 1
+Aantal stoelen (Business): 0
+
+Toegewezen Personeel:
+- Personeel{naam='John Smith', leeftijd=45, adres='Aviation Road 10', rol='Piloot'}
+- Personeel{naam='Jane Doe', leeftijd=38, adres='Skyline Avenue 15', rol='Piloot'}
+- Personeel{naam='Alice Brown', leeftijd=30, adres='Crew Street 5', rol='Cabin Crew'}
+- Personeel{naam='Bob White', leeftijd=28, adres='Crew Street 6', rol='Cabin Crew'}
+- Personeel{naam='Clara Green', leeftijd=32, adres='Crew Street 7', rol='Cabin Crew'}
+- Personeel{naam='Camille West', leeftijd=42, adres='Crew Street 9', rol='Onboarder'}
+
+Passagiers:
+- Passagier{naam='SSS', leeftijd=23, adres='EZZE', bagagegewicht=5.0}

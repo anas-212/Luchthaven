@@ -1,0 +1,12 @@
+Vluchtinformatie
+=================
+Vluchtcode: RAM925-BRU
+Bestemming: BRUSSEL
+Aantal stoelen (Economy): 1
+Aantal stoelen (Business): 1
+
+Toegewezen Personeel:
+Geen personeel toegewezen.
+
+Passagiers:
+- Passagier{naam='SSS', leeftijd=2, adres='AZEZA', bagagegewicht=3.0}
